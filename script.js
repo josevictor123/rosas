@@ -13,8 +13,6 @@ Nunca imaginé encontrar a una persona que pudiera traer tanta tranquilidad y al
 Desde que formas parte de mi historia, mis días tienen un motivo más para sonreír, porque sé que tengo a alguien con quien compartir sueños, momentos y nuevos caminos por recorrer.
 
 Y eres esa persona especial que mi corazón eligió, alguien que admiro, valoro y quiero cuidar, porque entre tantas personas en este mundo tuve la fortuna de encontrarte a ti, Candy.
-
-Candy, tu nombre se volvió una de mis palabras favoritas, no solamente por cómo suena, sino por todo lo que representa: una persona que llegó a mi vida para dejar huellas bonitas, momentos inolvidables y un cariño que deseo seguir construyendo cada día contigo.
 🌹❤️`;
 
 //==========================
