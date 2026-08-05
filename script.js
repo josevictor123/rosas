@@ -4,15 +4,16 @@
 
 const carta = `HOLA MAMOR ❤️
 
-Con tu sonrisa llegaste a iluminar momentos que antes parecían normales, convirtiendo pequeños instantes en recuerdos que ahora guardo con mucho cariño dentro de mi corazón.
+Con tu sonrisa llegaste a iluminar momentos que antes parecían normales, convirtiendo pequeños instantes en recuerdos que ahora guardo con mucho cariño.
 
 A tu lado he descubierto que el amor también vive en los detalles más sencillos, en una conversación, una mirada, una risa y en cada momento que puedo compartir contigo.
 
-Nunca imaginé encontrar a una persona que pudiera traer tanta tranquilidad y alegría a mi vida, pero llegaste tú, con tu forma única de ser y con esa manera tan especial de hacerme feliz.
+Nunca imaginé encontrar a una persona que pudiera traer tanta tranquilidad y alegría a mi vida, pero como dices tu... "ya llegue yo".
 
 Desde que formas parte de mi historia, mis días tienen un motivo más para sonreír, porque sé que tengo a alguien con quien compartir sueños, momentos y nuevos caminos por recorrer.
 
-Y eres esa persona especial que mi corazón eligió, alguien que admiro, valoro y quiero cuidar, porque entre tantas personas en este mundo tuve la fortuna de encontrarte a ti, Candy.
+Y eres esa persona especial que mi corazón eligió, alguien que admiro, valoro y quiero cuidar, porque entre tantas personas en este mundo tuve la fortuna de encontrarte a ti, mi princesita.
+
 🌹❤️`;
 
 //==========================
